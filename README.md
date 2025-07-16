@@ -118,9 +118,8 @@ These leads are ready for downstream sales workflows like email, LinkedIn, or CR
 ## Future Enhancements
 
 - Add more real-world ICP templates across sectors
-- Integrate with enrichment and CRM tools (e.g. HubSpot, Salesforce)
+- Integrate with enrichment and CRM tools
 - Support cross-validation and grid search for hyperparameter tuning
-- REST API wrapper for live ICP inference
 
 ## Authors
 
